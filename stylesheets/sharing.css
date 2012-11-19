@@ -1,0 +1,10 @@
+li.share-snipit a.sd-button > span {
+  background-image: url('../images/logo-16.png?0');
+}
+
+@media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  li.share-snipit a.sd-button > span {
+    background-image: url('../images/logo-32.png?0');
+    background-size: 16px 16px;
+  }
+}
