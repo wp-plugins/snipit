@@ -3,7 +3,7 @@
 Plugin Name: Snip.it
 Plugin URI: https://snip.it/toolkit
 Description: Integrate Snip.it with your WordPress blog
-Version: 0.0.1
+Version: 0.0.2
 Author: Snip.it
 Author URI: https://snip.it/
 License: MIT
